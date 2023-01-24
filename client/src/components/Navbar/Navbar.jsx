@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Left, Center, Right, Wrapper, Item, Image, ItemText, IconsContainer, Icons, CartIcon, CartCount } from './Style';
+import { Container, Left, Center, Right, Wrapper, Item, Image, ItemText, IconsContainer, Icons, CartCount } from './Style';
 import { CaretDown, MagnifyingGlass, User, Heart, ShoppingCart } from 'phosphor-react';
 
 import { Link } from 'react-router-dom';
